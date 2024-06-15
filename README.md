@@ -26,7 +26,6 @@ pip install "git+https://github.com/facebookresearch/pytorch3d.git"
 # install kaolin (https://kaolin.readthedocs.io/en/latest/notes/installation.html)
 pip install kaolin==0.14.0 -f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/torch-1.13.0_cu116.html
 
-
 # install other dependencies
 pip install -r requirements.txt 
 ```
