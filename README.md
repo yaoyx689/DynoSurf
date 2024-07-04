@@ -91,7 +91,7 @@ If you find our code or paper helps, please consider citing:
 @inproceedings{yao2024dynosurf,
   author    = {Yao, Yuxin and Ren, Siyu and Hou, Junhui and Deng, Zhi and Zhang, Juyong and Wang, Wenping},
   title     = {DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction},
-  journal   = {European Conference on Computer Vision},
+  booktitle   = {European Conference on Computer Vision},
   year      = {2024},
 }
 ```
