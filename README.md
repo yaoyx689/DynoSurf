@@ -1,5 +1,5 @@
 # DynoSurf
-This repository includes the source code of the paper [DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction](https://arxiv.org/abs/2403.11586).
+This repository includes the source code of the paper [DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction (ECCV 2024)](https://arxiv.org/abs/2403.11586).
 
 Authors: [Yuxin Yao](https://yaoyx689.github.io/), Siyu Ren, [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), Zhi Deng, [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
 
@@ -88,10 +88,10 @@ python run.py
 ### Citation 
 If you find our code or paper helps, please consider citing:
 ```
-@article{yao2024dynosurf,
+@inproceedings{yao2024dynosurf,
   author    = {Yao, Yuxin and Ren, Siyu and Hou, Junhui and Deng, Zhi and Zhang, Juyong and Wang, Wenping},
   title     = {DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction},
-  journal   = {Arxiv},
+  journal   = {European Conference on Computer Vision},
   year      = {2024},
 }
 ```
