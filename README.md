@@ -3,12 +3,12 @@ This repository includes the source code of the paper [DynoSurf: Neural Deformat
 
 Authors: [Yuxin Yao](https://yaoyx689.github.io/), Siyu Ren, [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), Zhi Deng, [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
 
-### <a href="https://yaoyx689.github.io/DynoSurf.html" target="_blank">Project Page</a> | <a href="https://arxiv.org/abs/2403.11586" target="_blank">Paper</a> | <a href="" target="_blank">Data (comming soon)</a>
+### <a href="https://yaoyx689.github.io/DynoSurf.html" target="_blank">Project Page</a> | <a href="https://arxiv.org/abs/2403.11586" target="_blank">Paper</a> | <a href="https://drive.google.com/drive/folders/1ekyldZxr76LYjZ5FgIRQz-Rp9eZjQQhL?usp=sharing" target="_blank">Data</a>
 
 ### TODO
 
 - [x] Release the code. 
-- [ ] Release preprocessed data. 
+- [x] Release preprocessed data. 
 
 ### Install all dependencies  
 ```shell
