@@ -84,6 +84,12 @@ python run.py
 
 - *Template Frame*: If you want to specify the frame index corresponding to the template surface, please modify the `template_idx` in `confs/base.conf`.
 
+### Preprocessed data and Evaluation 
+The data used in the paper to compare with other methods can be downloaded [here](https://drive.google.com/drive/folders/1ekyldZxr76LYjZ5FgIRQz-Rp9eZjQQhL?usp=sharing). It contains 32 sequences from the AMA dataset, 109 sequences from DFAUST dataset and 89 sequences from DT4D dataset. You can find a description of the data format [here](https://drive.google.com/drive/folders/1ekyldZxr76LYjZ5FgIRQz-Rp9eZjQQhL?usp=sharing).
+
+We also show the evaluation tool in ``evaluation``, which you can use ``eval_geometric.py`` or ``eval_geometric_dt4d.py`` to calculate the chamfer distance, normal consistent and F-score, and use ``eval_correspondences.py`` to calculate the correspondences errors.
+
+
 
 ### Citation 
 If you find our code or paper helps, please consider citing:
